@@ -1,0 +1,144 @@
+﻿<Window x:Class="SecureFileManager.WindowFileManager"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SecureFileManager"
+        mc:Ignorable="d"
+        Height="625.2" 
+        Width="902" 
+        Loaded="Window_Loaded" 
+        Closing="Window_Closing" 
+        MinHeight="670" 
+        MinWidth="1110" 
+        ResizeMode="CanResizeWithGrip" 
+        Icon="icon.ico">
+    
+    
+    <Grid x:Name="gridMain" Margin="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="300"/>
+        </Grid.ColumnDefinitions>
+
+
+        <!-- main menu -->
+        <Menu Height="20" VerticalAlignment="Top" IsMainMenu="True" Grid.ColumnSpan="3">
+            <MenuItem Header="Database" Height="20">
+                <MenuItem Header="Open" Click="open_database"/>
+            </MenuItem>
+            <MenuItem Header="Directories">
+                <MenuItem Header="Add" Click="add_directory"/>
+                <MenuItem Header="Edit" Click="edit_directory"/>
+                <MenuItem Header="Delete"  Click="delete_directory"/>
+                <Separator/>
+                <MenuItem Header="Export.." Click="export_directory"/>
+            </MenuItem>
+            <MenuItem Header="Files">
+                <MenuItem Header="Add" Click="add_file"/>
+                <MenuItem Header="Delete" Click="delete_file"/>
+                <Separator/>
+                <MenuItem Header="export selected" Click="export_file"/>
+                <Separator/>
+                <MenuItem Header="Search.." Click="search_file"/>
+            </MenuItem>
+            <MenuItem Header="View">
+                <MenuItem x:Name="mi_file_no_dir" Header="Show files without directory" IsCheckable="True" IsChecked="False" Click="mostra_file_senza_cartella"/>
+            </MenuItem>
+            <MenuItem Header="Security">
+                <MenuItem x:Name="mi_imposta_password" Header="Set password" Click="set_password"/>
+                <MenuItem x:Name="mi_rimuovi_password" Header="Remove password" Click="remove_password"/>
+            </MenuItem>
+        </Menu>
+
+
+        <!-- listbox directories -->
+        <ListBox x:Name="lbxDir" Margin="10,41,4.6,24.8" BorderThickness="1" SelectionChanged="lbxDir_SelectionChanged" MouseDoubleClick="lbxDir_MouseDoubleClick">
+            <ListBox.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Add file" Click="add_file"/>
+                    <MenuItem Header="Edit" Click="edit_directory"/>
+                    <MenuItem Header="Delete" Click="delete_directory"/>
+                    <MenuItem Header="Export.." Click="export_directory"/>
+                </ContextMenu>
+            </ListBox.ContextMenu>
+        </ListBox>
+
+
+        <!-- datagrid files -->
+        <DataGrid x:Name="dgFiles" Margin="5,41,5,25" BorderThickness="1" CanUserAddRows="False" CanUserResizeRows="False" CanUserDeleteRows="False" IsReadOnly="True" SelectionChanged="dgFiles_SelectionChanged" AutoGenerateColumns="False" Grid.Column="1" Background="White" BorderBrush="#FFABADB3" Drop="dgFiles_Drop" AllowDrop="True">
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="open file" Click="open_file"/>
+                    <MenuItem Header="Delete" Click="delete_file"/>
+                    <MenuItem Header="Export.." Click="export_file"/>
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+            <DataGrid.VerticalGridLinesBrush>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ActiveBorderColorKey}}"/>
+            </DataGrid.VerticalGridLinesBrush>
+            <DataGrid.HorizontalGridLinesBrush>
+                <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ActiveBorderColorKey}}"/>
+            </DataGrid.HorizontalGridLinesBrush>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Name" Binding="{Binding name}"/>
+                <DataGridTextColumn Header="Extension" Binding="{Binding ext}"/>
+                <DataGridTextColumn Header="length" Binding="{Binding length}"/>
+                <DataGridTextColumn Header="Creation date" Binding="{Binding creation_date}"/>
+                <DataGridTextColumn Header="Last edit" Binding="{Binding last_edit_date}"/>
+                <DataGridTextColumn Header="Description" Binding="{Binding description}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+        <!-- status bar -->
+        <StatusBar Margin="0" Grid.ColumnSpan="3" Height="20" VerticalAlignment="Bottom">
+            <TextBlock x:Name="txbFilesCount" Text="0 of 0 files selected"/>
+        </StatusBar>
+
+
+        <TextBlock HorizontalAlignment="Left" Margin="10,25,0,0" TextWrapping="Wrap" Text="directories" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="5,25,0,0" TextWrapping="Wrap" Text="directory files" VerticalAlignment="Top" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="5,25,0,0" TextWrapping="Wrap" Text="Selected file" VerticalAlignment="Top" Grid.Column="2"/>
+
+        
+        <!-- grid selected file -->
+        <Grid x:Name="gridSelectedFile" Grid.Column="2" Margin="5,41,10,25" Background="White">
+            <Grid Height="32" VerticalAlignment="Bottom">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="17*"/>
+                    <ColumnDefinition Width="17*"/>
+                    <ColumnDefinition Width="17*"/>
+                    <ColumnDefinition Width="17*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="btn_salva_modifiche" Content="Save" Margin="5" Click="save_file"/>
+                <Button Content="Delete" Margin="5" Grid.Column="1" Click="delete_file"/>
+                <Button Content="Export" Margin="5" Grid.Column="2" Click="export_file"/>
+                <Button Content="Open" Margin="5" Grid.Column="3" Click="open_file"/>
+            </Grid>
+            <Grid Background="White" Margin="0,285,0,36.6">
+                <Label Content="Name:" HorizontalAlignment="Left" Margin="5,5,0,0" VerticalAlignment="Top"/>
+                <Label Content="Length:" HorizontalAlignment="Left" Margin="5,57,0,0" VerticalAlignment="Top"/>
+                <Label Content="Creation date:" HorizontalAlignment="Left" Margin="5,83,0,0" VerticalAlignment="Top"/>
+                <Label Content="Description:" HorizontalAlignment="Left" Margin="5,161,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txt_data_creazione" Height="20" Margin="106,87,5,0" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False" Background="{x:Null}" BorderBrush="#FFABADB3"/>
+                <TextBox x:Name="txt_dimensioni" Height="20" Margin="106,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False" HorizontalAlignment="Left" Width="104" Background="{x:Null}" BorderBrush="#FFABADB3"/>
+                <TextBox x:Name="txt_nome" Height="20" Margin="106,9,5,0" VerticalAlignment="Top" MaxLength="100"/>
+                <TextBox x:Name="txt_dettagli" Margin="106,165,5,0" VerticalAlignment="Top" MaxLength="200" Height="20"/>
+                <Label Content="Last edit:" HorizontalAlignment="Left" Margin="5,109,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txt_data_ultima_modifica" Height="20" Margin="106,113,5,0" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False" Background="{x:Null}" BorderBrush="#FFABADB3"/>
+                <ComboBox x:Name="cmb_fk_cartella" Margin="106,140,5,0" VerticalAlignment="Top" Height="20" Padding="6,0,5,0" VerticalContentAlignment="Center"/>
+                <Label Content="Directory:" HorizontalAlignment="Left" Margin="5,135,0,0" VerticalAlignment="Top"/>
+                <Label Content="Extension:" HorizontalAlignment="Left" Margin="5,31,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txt_ext" Height="20" Margin="106,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" IsEnabled="False" HorizontalAlignment="Left" Width="104" Background="{x:Null}" BorderBrush="#FFABADB3"/>
+            </Grid>
+            <Grid x:Name="grid_preview" Height="285" VerticalAlignment="Top">
+                <Grid.Background>
+                    <SolidColorBrush Color="{DynamicResource {x:Static SystemColors.ControlColorKey}}"/>
+                </Grid.Background>
+            </Grid>
+        </Grid>
+        
+    </Grid>
+</Window>

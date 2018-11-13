@@ -1,0 +1,148 @@
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\FilesSicuri.csprojResolveAssemblyReference.cache
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\WindowGestioneFiles.g.cs
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\WindowApertura.g.cs
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\App.g.cs
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\FilesSicuri_MarkupCompile.cache
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\FilesSicuri_MarkupCompile.lref
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\FilesSicuri.exe.config
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\FilesSicuri.exe
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\FilesSicuri.pdb
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\EntityFramework.dll
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\System.Data.SQLite.dll
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\EntityFramework.xml
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\System.Data.SQLite.xml
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\bin\Debug\System.Data.SQLite.dll.config
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\WindowGestioneFiles.baml
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\WindowApertura.baml
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\FilesSicuri.g.resources
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\FilesSicuri.Properties.Resources.resources
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\FilesSicuri.csproj.GenerateResource.Cache
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\FilesSicuri.csproj.CoreCompileInputs.cache
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\FilesSicuri.exe
+c:\users\riccardo tassinari\source\repos\FilesSicuri\FilesSicuri\obj\Debug\FilesSicuri.pdb
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\FilesSicuri.exe.config
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\FilesSicuri.exe
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\FilesSicuri.pdb
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\EntityFramework.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\EntityFramework.xml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.xml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.csprojResolveAssemblyReference.cache
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowGestioneFiles.g.cs
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowApertura.g.cs
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\App.g.cs
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri_MarkupCompile.cache
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri_MarkupCompile.lref
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowGestioneFiles.baml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowApertura.baml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.g.resources
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.Properties.Resources.resources
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.csproj.GenerateResource.Cache
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.exe
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.pdb
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\EntityFramework.dll
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\EntityFramework.SqlServer.dll
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.dll
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\EntityFramework.xml
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\EntityFramework.SqlServer.xml
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.xml
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\System.Data.SQLite.dll.config
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.csprojResolveAssemblyReference.cache
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowGestioneFiles.g.cs
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowApertura.g.cs
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\App.g.cs
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowGestioneFiles.baml
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowApertura.baml
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.csproj.GenerateResource.Cache
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\FilesSicuri.csproj.CoreCompileInputs.cache
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\GestioneFile.exe.config
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\GestioneFile.exe.manifest
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\GestioneFile.application
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\GestioneFile.exe
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\bin\Debug\GestioneFile.pdb
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\GestioneFile_MarkupCompile.cache
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\GestioneFile_MarkupCompile.lref
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\GestioneFile.g.resources
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\GestioneFile.Properties.Resources.resources
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\GestioneFile.exe.manifest
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\GestioneFile.application
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\GestioneFile.exe
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\GestioneFile.pdb
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\Window1.g.cs
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\Window1.baml
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowFile.g.cs
+E:\Google Drive\Informatica\Progetti\Gestore ricordi smartphone\FilesSicuri\obj\Debug\WindowFile.baml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\GestioneFile.exe.config
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\GestioneFile.exe.manifest
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\GestioneFile.application
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\GestioneFile.exe
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\GestioneFile.pdb
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\EntityFramework.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\EntityFramework.xml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.xml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\FilesSicuri.csprojResolveAssemblyReference.cache
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowGestioneFiles.g.cs
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowApertura.g.cs
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\App.g.cs
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\GestioneFile_MarkupCompile.cache
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\GestioneFile_MarkupCompile.lref
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowGestioneFiles.baml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowApertura.baml
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\GestioneFile.g.resources
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\GestioneFile.Properties.Resources.resources
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\FilesSicuri.csproj.GenerateResource.Cache
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\FilesSicuri.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\GestioneFile.exe.manifest
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\GestioneFile.application
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\GestioneFile.exe
+C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\GestioneFile.pdb
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\SecureFileManager.exe.config
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\SecureFileManager.exe.manifest
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\SecureFileManager.application
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\SecureFileManager.exe
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\SecureFileManager.pdb
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\EntityFramework.dll
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\EntityFramework.SqlServer.dll
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.dll
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\EntityFramework.xml
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\EntityFramework.SqlServer.xml
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.xml
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\bin\Debug\System.Data.SQLite.dll.config
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\FilesSicuri.csprojResolveAssemblyReference.cache
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowDirectory.g.cs
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowFileManager.g.cs
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowOpen.g.cs
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\App.g.cs
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\SecureFileManager_MarkupCompile.cache
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\SecureFileManager_MarkupCompile.lref
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowDirectory.baml
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowFileManager.baml
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\WindowOpen.baml
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\SecureFileManager.g.resources
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\SecureFileManager.Properties.Resources.resources
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\FilesSicuri.csproj.GenerateResource.Cache
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\FilesSicuri.csproj.CoreCompileInputs.cache
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\SecureFileManager.exe.manifest
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\SecureFileManager.application
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\SecureFileManager.exe
+E:\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\FilesSicuri\obj\Debug\SecureFileManager.pdb
