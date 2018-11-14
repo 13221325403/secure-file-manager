@@ -9,3 +9,7 @@ Features:
   - Sort and search
   - Export back your files
   - Optionally encrypt your database
+  
+Future updates:
+  - Implement a directory tree structure
+  - add tag management for files
