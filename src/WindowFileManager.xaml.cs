@@ -265,6 +265,7 @@ namespace SecureFileManager
             {
                 File tmp;
                 IO.FileInfo info;
+                int count = 0;
                 foreach (string file in files)
                 {
                     if(IO.Path.GetFullPath(file) == IO.Path.GetFullPath(DBConnector.File))
@@ -283,8 +284,10 @@ namespace SecureFileManager
                         tmp.last_edit_date = DateTime.Now;
                         tmp.fk_directory = _selectedDirectory.pk;
                         FileController.insert(tmp);
+                        count++;
                     }       
                 }
+                MessageBox.Show(count + " files added", "alert", MessageBoxButton.OK, MessageBoxImage.Information);
                 load_files();
             }          
         }

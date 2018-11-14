@@ -13,12 +13,12 @@ namespace SecureFileManager.Controller
     {
         public static List<File> GetDirectoryFiles(int pk)
         {
-            string q = (pk > 0)
-                ? "select * from files where fk_directory = " + pk
-                : "select * from files where fk_directory is null";
+            string q = 
+                "select pk_file, name, ext, length, description, creation_date, last_edit_date, fk_directory "+
+                "from files "+
+                "where fk_directory " + ((pk > 0) ? "= " + pk : "is null");
 
             List<File> files = new List<File>();
-
             DBConnector.conn.Open();
             SQLiteCommand command = new SQLiteCommand(q, DBConnector.conn);
             SQLiteDataReader reader = command.ExecuteReader();
@@ -33,9 +33,10 @@ namespace SecureFileManager.Controller
 
         public static DataTable GetDirectoryFilesDT(int pk)
         {
-            string q = (pk > 0)
-                ? "select * from files where fk_directory = " + pk
-                : "select * from files where fk_directory is null";
+            string q =
+                "select pk_file, name, ext, length, description, creation_date, last_edit_date, fk_directory " +
+                "from files " +
+                "where fk_directory " + ((pk > 0) ? "= " + pk : "is null");
 
             DataTable dt = new DataTable();
             DBConnector.conn.Open();
@@ -108,7 +109,7 @@ namespace SecureFileManager.Controller
             f.name = Convert.ToString(reader["name"]);
             f.ext = Convert.ToString(reader["ext"]);
             f.length = Convert.ToInt32(reader["length"]);
-            f.file = (byte[])reader["file"];
+            //f.file = (byte[])reader["file"]; //avoid blob file loading to increase speed 
             f.description = Convert.ToString(reader["description"]);
             f.creation_date = DBGet.GetDateTime(reader["creation_date"]);
             f.last_edit_date = DBGet.GetDateTime(reader["last_edit_date"]);
@@ -123,7 +124,7 @@ namespace SecureFileManager.Controller
             f.name = Convert.ToString(row["name"]);
             f.ext = Convert.ToString(row["ext"]);
             f.length = Convert.ToInt32(row["length"]);
-            f.file = (byte[])row["file"];
+            //f.file = (byte[])row["file"]; //avoid blob file loading to increase speed 
             f.description = Convert.ToString(row["description"]);
             f.creation_date = DBGet.GetDateTime(row["creation_date"]);
             f.last_edit_date = DBGet.GetDateTime(row["last_edit_date"]);

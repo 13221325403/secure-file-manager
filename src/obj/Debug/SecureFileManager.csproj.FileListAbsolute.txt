@@ -62,3 +62,35 @@ C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicu
 C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\src\obj\Debug\SecureFileManager.application
 C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\src\obj\Debug\SecureFileManager.exe
 C:\Users\Riccardo Tassinari\Google Drive\Informatica\Progetti\Gestione file sicuri [CS]\src\obj\Debug\SecureFileManager.pdb
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\SecureFileManager.exe.config
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\SecureFileManager.exe.manifest
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\SecureFileManager.application
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\SecureFileManager.exe
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\SecureFileManager.pdb
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\EntityFramework.dll
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.dll
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\EntityFramework.xml
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.xml
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.csprojResolveAssemblyReference.cache
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\WindowDirectory.g.cs
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\WindowFileManager.g.cs
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\WindowOpen.g.cs
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\App.g.cs
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager_MarkupCompile.cache
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager_MarkupCompile.lref
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\WindowDirectory.baml
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\WindowFileManager.baml
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\WindowOpen.baml
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.g.resources
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.Properties.Resources.resources
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.csproj.GenerateResource.Cache
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.csproj.CoreCompileInputs.cache
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.exe.manifest
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.application
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.exe
+C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.pdb
