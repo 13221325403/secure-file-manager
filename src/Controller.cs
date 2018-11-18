@@ -109,7 +109,7 @@ namespace SecureFileManager.Controller
             f.name = Convert.ToString(reader["name"]);
             f.ext = Convert.ToString(reader["ext"]);
             f.length = Convert.ToInt32(reader["length"]);
-            //f.file = (byte[])reader["file"]; //avoid blob file loading to increase speed 
+            f.file = (byte[])reader["file"];
             f.description = Convert.ToString(reader["description"]);
             f.creation_date = DBGet.GetDateTime(reader["creation_date"]);
             f.last_edit_date = DBGet.GetDateTime(reader["last_edit_date"]);
@@ -124,7 +124,7 @@ namespace SecureFileManager.Controller
             f.name = Convert.ToString(row["name"]);
             f.ext = Convert.ToString(row["ext"]);
             f.length = Convert.ToInt32(row["length"]);
-            //f.file = (byte[])row["file"]; //avoid blob file loading to increase speed 
+            //f.file = (byte[])row["file"]; //avoiding blob file loading to increase speed
             f.description = Convert.ToString(row["description"]);
             f.creation_date = DBGet.GetDateTime(row["creation_date"]);
             f.last_edit_date = DBGet.GetDateTime(row["last_edit_date"]);

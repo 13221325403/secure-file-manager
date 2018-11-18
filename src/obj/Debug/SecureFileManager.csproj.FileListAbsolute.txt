@@ -94,3 +94,35 @@ C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\Secur
 C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.application
 C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.exe
 C:\Users\Riccardo Tassinari\repositories\secure-file-manager\src\obj\Debug\SecureFileManager.pdb
+E:\Repositories\secure-file-manager\src\bin\Debug\SecureFileManager.exe.config
+E:\Repositories\secure-file-manager\src\bin\Debug\SecureFileManager.exe.manifest
+E:\Repositories\secure-file-manager\src\bin\Debug\SecureFileManager.application
+E:\Repositories\secure-file-manager\src\bin\Debug\SecureFileManager.exe
+E:\Repositories\secure-file-manager\src\bin\Debug\SecureFileManager.pdb
+E:\Repositories\secure-file-manager\src\bin\Debug\EntityFramework.dll
+E:\Repositories\secure-file-manager\src\bin\Debug\EntityFramework.SqlServer.dll
+E:\Repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.dll
+E:\Repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Repositories\secure-file-manager\src\bin\Debug\EntityFramework.xml
+E:\Repositories\secure-file-manager\src\bin\Debug\EntityFramework.SqlServer.xml
+E:\Repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.xml
+E:\Repositories\secure-file-manager\src\bin\Debug\System.Data.SQLite.dll.config
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager.csprojResolveAssemblyReference.cache
+E:\Repositories\secure-file-manager\src\obj\Debug\WindowDirectory.g.cs
+E:\Repositories\secure-file-manager\src\obj\Debug\WindowFileManager.g.cs
+E:\Repositories\secure-file-manager\src\obj\Debug\WindowOpen.g.cs
+E:\Repositories\secure-file-manager\src\obj\Debug\App.g.cs
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager_MarkupCompile.cache
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager_MarkupCompile.lref
+E:\Repositories\secure-file-manager\src\obj\Debug\WindowDirectory.baml
+E:\Repositories\secure-file-manager\src\obj\Debug\WindowFileManager.baml
+E:\Repositories\secure-file-manager\src\obj\Debug\WindowOpen.baml
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager.g.resources
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager.Properties.Resources.resources
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager.csproj.GenerateResource.Cache
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager.csproj.CoreCompileInputs.cache
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager.exe.manifest
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager.application
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager.exe
+E:\Repositories\secure-file-manager\src\obj\Debug\SecureFileManager.pdb

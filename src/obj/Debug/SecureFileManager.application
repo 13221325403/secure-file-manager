@@ -7,14 +7,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="SecureFileManager.exe.manifest" size="7530">
+    <dependentAssembly dependencyType="install" codebase="SecureFileManager.exe.manifest" size="7464">
       <assemblyIdentity name="SecureFileManager.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Gm47fupw8w4ihwnS8F/KzKV1jKt3X7cHv7TY3y6JZao=</dsig:DigestValue>
+        <dsig:DigestValue>tw5/L1OGBo0D1ZGXQ/lgFDlNO3CBu1KB+QwCjP7jZ8E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
